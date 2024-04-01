@@ -1,0 +1,26 @@
+{
+  "name": "tsubasa_games",
+  "version": "1.0.0",
+  "description": "Description : Hanami Academy: Battle Royale is a Roblox game set in a school where 12 players compete in a thrilling battle royale mode. The game features unique and dynamic environments, with meticulously crafted scenery and events to keep the gameplay engaging and exciting.",
+  "main": "index.js",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^2.3.0-types.0",
+    "@rbxts/types": "^1.0.766",
+    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@typescript-eslint/parser": "^7.4.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-roblox-ts": "^0.0.36",
+    "prettier": "^3.2.5",
+    "roblox-ts": "^2.3.0",
+    "typescript": "^5.4.3"
+  }
+}
